@@ -15,5 +15,3 @@ new line
 abcdrf
 
 xyz
-
-hello
